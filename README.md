@@ -1,16 +1,16 @@
 # zakatapp
 
-A new Flutter project.
+ Si Amanah adalah aplikasi zakat yang dirancang untuk membantu amil (pengumpul zakat) dalam mendistribusikan zakat secara lebih efektif dan amanah. Aplikasi ini memiliki beberapa fitur utama yang membantu amil dalam menjalankan tugasnya, termasuk:
+
+Homepage: Menyediakan berita terkini mengenai event atau kegiatan zakat yang sedang berlangsung.
+
+Cek el-KTP: Fitur ini memungkinkan amil untuk memindai KTP penerima zakat dan memverifikasi apakah mereka berhak menerima zakat berdasarkan informasi di database. Setelah verifikasi, amil dapat menandai zakat sebagai "diambil".
+
+Daftar KTP: Fitur ini digunakan untuk mendaftarkan KTP baru dari penerima zakat yang belum ada di database. Amil bisa memasukkan NIK, nama, dan deskripsi penerima.
+
+Komunitas: Fitur komunitas ini memungkinkan amil untuk berdiskusi dan berinteraksi dengan sesama amil, berbagi informasi, dan memberikan apresiasi terkait kegiatan zakat.
+
+Aplikasi ini juga memiliki sistem untuk memantau log pengambilan zakat dan memverifikasi kelayakan penerima zakat berdasarkan data dari NIK KTP mereka. Tujuan dari Si Amanah App adalah untuk memastikan distribusi zakat berjalan dengan lancar, transparan, dan akurat, serta membantu mendeteksi potensi kecurangan dengan memverifikasi data penerima.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
