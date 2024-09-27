@@ -13,3 +13,6 @@ Komunitas: Fitur komunitas ini memungkinkan amil untuk berdiskusi dan berinterak
 Aplikasi ini juga memiliki sistem untuk memantau log pengambilan zakat dan memverifikasi kelayakan penerima zakat berdasarkan data dari NIK KTP mereka. Tujuan dari Si Amanah App adalah untuk memastikan distribusi zakat berjalan dengan lancar, transparan, dan akurat, serta membantu mendeteksi potensi kecurangan dengan memverifikasi data penerima.
 
 ## Getting Started
+
+Didalam folder github ini sudah ada file apk untuk showcasenya, pergi ke direktori ~ build/app/outputs/flutter-apk/ ~ lalu ambil file "app-release.apk"
+apk tersebut dapat dijalankan di android karena sudah dibuatkan file (compile) aplikasi Flutter menjadi file APK (Android Package).
